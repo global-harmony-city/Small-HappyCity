@@ -8,3 +8,6 @@
 霧島周辺の自治体が協力し、新しい街を作る  
 ![霧島セントラルシティ](./Picture/KirishimaCentralCity.webp)
 
+例）横川地区  
+横川地区が霧島セントラルシティと融合していくイメージ
+![横川地区](./Picture/YokogawaDistrict.webp)
