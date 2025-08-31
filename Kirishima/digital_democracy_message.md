@@ -64,7 +64,7 @@
 - 予算使用状況の確認
 - 他の住民との意見交換
 
-**📱 詳細な操作方法・画面イメージは [こちら](./Kirishima/kirishima_voice_app_details.md) をご覧ください**
+**📱 詳細な操作方法・画面イメージは [こちら](./kirishima_voice_app_details.md) をご覧ください**
 
 ---
 
