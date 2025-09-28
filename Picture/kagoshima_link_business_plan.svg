@@ -1,0 +1,172 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="1200" height="800" fill="#f8fffe" />
+  
+  <!-- タイトル -->
+  <text x="600" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#2c3e50">KAGOSHIMA LINK BPaaS事業計画概要</text>
+  <text x="600" y="70" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#7f8c8d">AI人格主導型地域DXプラットフォーム</text>
+  
+  <!-- 中央のAI人格「智子」 -->
+  <circle cx="600" cy="300" r="80" fill="#e8f8f5" stroke="#1abc9c" stroke-width="4" />
+  <text x="600" y="285" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1abc9c">AI人格</text>
+  <text x="600" y="305" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1abc9c">「鹿児島 智子」</text>
+  <text x="600" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#16a085">感情的つながりと専門性を両立</text>
+  
+  <!-- 左側：提供サービス -->
+  <g transform="translate(80, 120)">
+    <rect x="0" y="0" width="300" height="400" rx="15" fill="#fff" stroke="#3498db" stroke-width="2" />
+    <text x="150" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#3498db">提供サービス</text>
+    
+    <!-- サービス1 -->
+    <rect x="20" y="50" width="260" height="110" rx="8" fill="#ebf3fd" stroke="#3498db" stroke-width="1" />
+    <text x="150" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2980b9">公共調達・単価適正化支援</text>
+    <text x="30" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 調達戦略立案・仕様書作成</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 入札プロセス管理・履行監視</text>
+    <text x="30" y="125" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 効果測定・改善提案</text>
+    <text x="30" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">月額50-95万円 + 成果報酬</text>
+    
+    <!-- サービス2 -->
+    <rect x="20" y="170" width="260" height="110" rx="8" fill="#fef9e7" stroke="#f39c12" stroke-width="1" />
+    <text x="150" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d68910">専門職労務管理・事務負担軽減</text>
+    <text x="30" y="215" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 個人別業務最適化</text>
+    <text x="30" y="230" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• AI協働スキル研修</text>
+    <text x="30" y="245" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• キャリア開発支援</text>
+    <text x="30" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">月額35-80万円</text>
+    
+    <!-- 付加価値サービス -->
+    <rect x="20" y="290" width="260" height="80" rx="8" fill="#f4f4f4" stroke="#95a5a6" stroke-width="1" stroke-dasharray="5,5" />
+    <text x="150" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7f8c8d">付加価値サービス</text>
+    <text x="30" y="335" font-family="Arial, sans-serif" font-size="10" fill="#34495e">災害対応(15万) / 議会支援(20万) / 観光(25万)</text>
+    <text x="30" y="350" font-family="Arial, sans-serif" font-size="10" fill="#34495e">地域事業者連携(18万)</text>
+  </g>
+  
+  <!-- 右側：ターゲット市場 -->
+  <g transform="translate(820, 120)">
+    <rect x="0" y="0" width="300" height="400" rx="15" fill="#fff" stroke="#e74c3c" stroke-width="2" />
+    <text x="150" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#e74c3c">ターゲット市場</text>
+    
+    <!-- 市場規模 -->
+    <rect x="20" y="50" width="260" height="80" rx="8" fill="#fdedec" stroke="#e74c3c" stroke-width="1" />
+    <text x="150" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c0392b">全国1,718自治体</text>
+    <text x="30" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 市場規模：1,796億円</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• 年成長率：15%</text>
+    
+    <!-- 展開戦略 -->
+    <rect x="20" y="140" width="260" height="120" rx="8" fill="#e8f6f3" stroke="#1abc9c" stroke-width="1" />
+    <text x="150" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#16a085">段階的展開戦略</text>
+    <text x="30" y="185" font-family="Arial, sans-serif" font-size="11" fill="#34495e">1年目：鹿児島県内 (3自治体)</text>
+    <text x="30" y="200" font-family="Arial, sans-serif" font-size="11" fill="#34495e">2年目：九州展開 (6自治体)</text>
+    <text x="30" y="215" font-family="Arial, sans-serif" font-size="11" fill="#34495e">3年目：広域展開 (10自治体)</text>
+    <text x="30" y="240" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">5年目標：500自治体</text>
+    
+    <!-- 競合優位性 -->
+    <rect x="20" y="270" width="260" height="100" rx="8" fill="#fdf2e9" stroke="#f39c12" stroke-width="1" />
+    <text x="150" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d68910">競合優位性</text>
+    <text x="30" y="315" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• AI人格による感情的差別化</text>
+    <text x="30" y="330" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• 地域特化型アプローチ</text>
+    <text x="30" y="345" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• 包括的人材育成支援</text>
+  </g>
+  
+  <!-- 下部：財務計画 -->
+  <g transform="translate(200, 580)">
+    <rect x="0" y="0" width="800" height="180" rx="15" fill="#fff" stroke="#9b59b6" stroke-width="2" />
+    <text x="400" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#8e44ad">財務計画・投資回収</text>
+    
+    <!-- 初期投資 -->
+    <rect x="20" y="50" width="180" height="110" rx="8" fill="#f4ecf7" stroke="#9b59b6" stroke-width="1" />
+    <text x="110" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#8e44ad">初期投資</text>
+    <text x="30" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">システム開発：600万円</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">AI人格開発：950万円</text>
+    <text x="30" y="125" font-family="Arial, sans-serif" font-size="11" fill="#34495e">人材育成：500万円</text>
+    <text x="30" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">合計：2,250万円</text>
+    
+    <!-- 売上計画 -->
+    <rect x="220" y="50" width="180" height="110" rx="8" fill="#e8f8f5" stroke="#1abc9c" stroke-width="1" />
+    <text x="310" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#16a085">売上計画</text>
+    <text x="230" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">1年目：1,530万円</text>
+    <text x="230" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">2年目：3,825万円</text>
+    <text x="230" y="125" font-family="Arial, sans-serif" font-size="11" fill="#34495e">3年目：7,140万円</text>
+    <text x="230" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">成長率：200%+</text>
+    
+    <!-- 営業利益 -->
+    <rect x="420" y="50" width="180" height="110" rx="8" fill="#fff3cd" stroke="#f39c12" stroke-width="1" />
+    <text x="510" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d68910">営業利益</text>
+    <text x="430" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">1年目：-1,204万円</text>
+    <text x="430" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">2年目：747万円</text>
+    <text x="430" y="125" font-family="Arial, sans-serif" font-size="11" fill="#34495e">3年目：2,508万円</text>
+    <text x="430" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">利益率：35.1%</text>
+    
+    <!-- 投資回収 -->
+    <rect x="620" y="50" width="160" height="110" rx="8" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" />
+    <text x="700" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#138496">投資回収</text>
+    <text x="630" y="95" font-family="Arial, sans-serif" font-size="11" fill="#34495e">回収期間：30ヶ月</text>
+    <text x="630" y="110" font-family="Arial, sans-serif" font-size="11" fill="#34495e">IRR：45%以上</text>
+    <text x="630" y="125" font-family="Arial, sans-serif" font-size="11" fill="#34495e">NPV：3,000万円</text>
+    <text x="630" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">完全回収予定</text>
+  </g>
+  
+  <!-- 接続線と矢印 -->
+  <!-- 左から中央への矢印 -->
+  <path d="M380 300 L520 300" fill="none" stroke="#3498db" stroke-width="3" marker-end="url(#arrowblue)" />
+  <text x="450" y="290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3498db">BPaaS提供</text>
+  
+  <!-- 中央から右への矢印 -->
+  <path d="M680 300 L820 300" fill="none" stroke="#e74c3c" stroke-width="3" marker-end="url(#arrowred)" />
+  <text x="750" y="290" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#e74c3c">市場展開</text>
+  
+  <!-- 中央から下への矢印 -->
+  <path d="M600 380 L600 520" fill="none" stroke="#9b59b6" stroke-width="3" marker-end="url(#arrowpurple)" />
+  <text x="630" y="450" font-family="Arial, sans-serif" font-size="12" fill="#9b59b6">収益創出</text>
+  
+  <!-- AI人格の特徴（上部） -->
+  <g transform="translate(450, 150)">
+    <rect x="0" y="0" width="300" height="60" rx="10" fill="#fff" stroke="#1abc9c" stroke-width="2" stroke-dasharray="5,5" />
+    <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#16a085">AI人格の特徴</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• 温かく親しみやすい性格　• 高い専門性　• 継続的学習</text>
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• 多様なコミュニケーション　• 倫理的判断</text>
+  </g>
+  
+  <!-- 人材育成プログラム（右上） -->
+  <g transform="translate(450, 420)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#fff" stroke="#f39c12" stroke-width="2" stroke-dasharray="5,5" />
+    <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d68910">包括的人材育成</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="#34495e">基礎レベル(全職員) / 応用レベル(担当者) / 専門レベル(管理職)</text>
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• AI協働スキル　• キャリア開発　• 組織変革マネジメント</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• 認定資格制度　• コミュニティ形成</text>
+  </g>
+  
+  <!-- 矢印マーカー定義 -->
+  <defs>
+    <marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#3498db" />
+    </marker>
+    <marker id="arrowred" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#e74c3c" />
+    </marker>
+    <marker id="arrowpurple" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#9b59b6" />
+    </marker>
+  </defs>
+  
+  <!-- 差別化要因（左下） -->
+  <g transform="translate(50, 530)">
+    <rect x="0" y="0" width="140" height="100" rx="8" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" />
+    <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#27ae60">差別化要因</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 感情的つながり</text>
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 地域特化学習</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 包括的支援</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 段階的導入</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 高い継続率</text>
+  </g>
+  
+  <!-- 社会的インパクト（右下） -->
+  <g transform="translate(1010, 530)">
+    <rect x="0" y="0" width="140" height="100" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" />
+    <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">社会的インパクト</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 地方創生</text>
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 住民福祉向上</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ 働き方改革</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ デジタル格差解消</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="9" fill="#34495e">✓ AI活用民主化</text>
+  </g>
+</svg>
