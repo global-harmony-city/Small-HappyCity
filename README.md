@@ -5,7 +5,7 @@
 ・中核都市が実現する[デジタル民主主義](./Kirishima/digital_democracy_message.md)  
 ・小さな都市からゆっくりと集約を行う[戦略的縮小モデル](./Kirishima/strategic_shrinking_message.md)  
 ・多くの住民が目指す[ウェルビーイング指標](./Kirishima/kirishima_main_message.md)の統合  
-・自治体ベンチャーと生成AIで地域を支える[ベンチャーとの共創](./Kirishima/kirishima_main_message.md)の統合  
+・自治体ベンチャーと生成AI[鹿児島智子](./Kirishima/KagoshimaTomoko.md)で地域を支える  
 によって、従来の成長モデルから脱却した新しい都市経営を行う
 
 世界に先駆けて自然な街の集約を実現するモデルケースとして発信したい
